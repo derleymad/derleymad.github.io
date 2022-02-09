@@ -1,3 +1,3 @@
 # derleymad.github.io
 
-ASDADbora boa
+SEGCOND	ASDADbora boa
